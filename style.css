@@ -4,8 +4,11 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
+    margin-left: 50px;
 
 }
+
+
 
 #head {
     background-color: #ebebeb;
@@ -15,6 +18,42 @@ body {
 #nav {
     background-color: #ebebeb;
     color: #777;
-    margin: 10px;
-    
+    margin-top: 10px;
+    margin-bottom: 30px;
+   }
+
+#section {
+    background-color: #ebebeb;
+    color: #777;
+    width: 495px;
+}
+
+#aside {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+#article {
+    background-color: #777;
+    color: #ebebeb;
+    width: 396px;
+    margin-left: 50px;
+}
+
+#h1 {
+    background-color: #ebebeb;
+    color: #777;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#p {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+#footer {
+    background-color: #ebebeb;
+    color: #777;
+    margin-top: 30px;
 }
